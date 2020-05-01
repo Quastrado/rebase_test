@@ -8,4 +8,8 @@ print('and goodbye')
 >>>>>>> C
 =======
 print('you are so cruel')
+<<<<<<< HEAD
 >>>>>>> D
+=======
+print('and so dirty')
+>>>>>>> E
