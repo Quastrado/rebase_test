@@ -12,4 +12,8 @@ print('you are so cruel')
 >>>>>>> D
 =======
 print('and so dirty')
+<<<<<<< HEAD
 >>>>>>> E
+=======
+print('and so unflattering')
+>>>>>>> F
